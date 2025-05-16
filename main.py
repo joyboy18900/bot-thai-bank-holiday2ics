@@ -19,6 +19,7 @@ def map_thai_month_to_english():
 # Scrape holiday data from the Bank of Thailand website
 def get_bot_holidays_with_selenium():
     options = webdriver.ChromeOptions()
+    options.add_argument("--headless")  # Run in headless mode
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     driver = webdriver.Chrome(options=options)
