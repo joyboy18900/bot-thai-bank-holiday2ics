@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Thailand Holidays 2025
+X-WR-CALDESC:Official holidays in Thailand.
+X-WR-TIMEZONE:Asia/Bangkok
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+DESCRIPTION:Holiday observed on 05 December 2025.
+LOCATION:Thailand
+SUMMARY:วันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ
+UID:20251205-วันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Holiday observed on 02 June 2025.
+LOCATION:Thailand
+SUMMARY:วันหยุดพิเศษ
+UID:20250602-วันหยุดพิเศษ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+DESCRIPTION:Holiday observed on 01 May 2025.
+LOCATION:Thailand
+SUMMARY:วันแรงงานแห่งชาติ
+UID:20250501-วันแรงงานแห่งชาติ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250603
+DESCRIPTION:Holiday observed on 03 June 2025.
+LOCATION:Thailand
+SUMMARY:วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี
+UID:20250603-วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Holiday observed on 12 August 2025.
+LOCATION:Thailand
+SUMMARY:วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ
+UID:20250812-วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Holiday observed on 05 May 2025.
+LOCATION:Thailand
+SUMMARY:ชดเชยวันฉัตรมงคล (วันอาทิตย์ที่ 4 พฤษภาคม 2568)
+UID:20250505-ชดเชยวันฉัตรมงคล (วันอาทิตย์ที่ 4 พฤษภาคม 2568)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250414
+DESCRIPTION:Holiday observed on 14 April 2025.
+LOCATION:Thailand
+SUMMARY:วันสงกรานต์
+UID:20250414-วันสงกรานต์
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+DESCRIPTION:Holiday observed on 28 July 2025.
+LOCATION:Thailand
+SUMMARY:วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว
+UID:20250728-วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Holiday observed on 07 April 2025.
+LOCATION:Thailand
+SUMMARY:ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์ (วันอาทิตย์ที่ 6 เมษายน 2568)
+UID:20250407-ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์ (วันอาทิตย์ที่ 6 เมษายน 2568)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:Holiday observed on 31 December 2025.
+LOCATION:Thailand
+SUMMARY:วันสิ้นปี
+UID:20251231-วันสิ้นปี
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250811
+DESCRIPTION:Holiday observed on 11 August 2025.
+LOCATION:Thailand
+SUMMARY:วันหยุดพิเศษ
+UID:20250811-วันหยุดพิเศษ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Holiday observed on 13 October 2025.
+LOCATION:Thailand
+SUMMARY:วันนวมินทรมหาราช
+UID:20251013-วันนวมินทรมหาราช
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250415
+DESCRIPTION:Holiday observed on 15 April 2025.
+LOCATION:Thailand
+SUMMARY:วันสงกรานต์
+UID:20250415-วันสงกรานต์
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:Holiday observed on 12 May 2025.
+LOCATION:Thailand
+SUMMARY:ชดเชยวันวิสาขบูชา (วันอาทิตย์ที่ 11 พฤษภาคม 2568)
+UID:20250512-ชดเชยวันวิสาขบูชา (วันอาทิตย์ที่ 11 พฤษภาคม 2568)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250212
+DESCRIPTION:Holiday observed on 12 February 2025.
+LOCATION:Thailand
+SUMMARY:วันมาฆบูชา
+UID:20250212-วันมาฆบูชา
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+DESCRIPTION:Holiday observed on 10 December 2025.
+LOCATION:Thailand
+SUMMARY:วันรัฐธรรมนูญ
+UID:20251210-วันรัฐธรรมนูญ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Holiday observed on 23 October 2025.
+LOCATION:Thailand
+SUMMARY:วันปิยมหาราช
+UID:20251023-วันปิยมหาราช
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+DESCRIPTION:Holiday observed on 01 January 2025.
+LOCATION:Thailand
+SUMMARY:วันขึ้นปีใหม่
+UID:20250101-วันขึ้นปีใหม่
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+DESCRIPTION:Holiday observed on 10 July 2025.
+LOCATION:Thailand
+SUMMARY:วันอาสาฬหบูชา
+UID:20250710-วันอาสาฬหบูชา
+END:VEVENT
+END:VCALENDAR
