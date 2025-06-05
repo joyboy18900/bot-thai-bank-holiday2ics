@@ -3,3 +3,6 @@ beautifulsoup4
 requests
 pandas
 lxml
+ics>=0.7.2
+arrow>=1.2.3
+selenium
